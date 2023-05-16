@@ -1,0 +1,42 @@
+-------tailwind is mobile first---------
+
+1) w-full => width full
+
+2) px-1 => padding in x axis (left and right)
+
+3) ml => margin left
+
+4) hover:scale-105 duration-200 => on hovering it will scale and the duration will be 200
+
+
+-----important------
+5) className="hiden" by default the element with this class will be hidden.
+
+6) className="hidden md:flex" => this is the media query of min-width of 768px 
+and it is =
+ @media (min-width: 768px){
+    .md\:flex:flex;
+}
+
+className="md:hidden"  => when screen size is > 768px the element with this class will be hidden
+
+------importanmt---------
+
+7) w-full => width = 100%
+
+8) h-full => height = 100vh
+
+9) bg-gradient-to-b => this gradient will go from top to bottom
+
+10) bg-gradient-to-b from-black to-gray => changes from black to gray
+
+11) max-w-screen-lg => max width screen large =======> 1024px
+
+
+12) sm: text-7xl => for bigger screen
+
+
+13) hover:rotate-90 => rotate the element by 90 on hover
+
+
+14) group-hover:rotate-90 duration-300 => rotate the whole group by 90 on hover
