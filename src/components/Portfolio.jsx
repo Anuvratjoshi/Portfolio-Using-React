@@ -11,14 +11,14 @@ const Portfolio = () => {
     {
       id: 1,
       src: laundryCart,
-      projectLink:"https://laundary-frontend-g19.onrender.com",
-      sourceCode:"https://github.com/Anuvratjoshi/Laundary-frontend-G19"
+      projectLink:"https://laundry-cart.netlify.app/",
+      sourceCode:"https://github.com/Anuvratjoshi/Laundry-cart-backend/tree/master"
     },
     {
       id: 2,
       src: carRantal,
-      projectLink:"https://car-rental-frontend-pt7r.onrender.com",
-      sourceCode:"https://github.com/Anuvratjoshi/Car-Rental-Frontend/tree/master"
+      projectLink:"https://anuvrat-car-rental.netlify.app/",
+      sourceCode:"https://github.com/Anuvratjoshi/car-rental-app-frontend/tree/master"
     },
     {
       id: 3,
